@@ -1,0 +1,7 @@
+Prénom : John
+Nom : Doe
+Email : john.doe@example.com
+Date de naissance : 15 août 1990
+Adresse : 123 Rue de l'Exemple, 75000 Paris, France
+Téléphone : +33 1 23 45 67 89
+
