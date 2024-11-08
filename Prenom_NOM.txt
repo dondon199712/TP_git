@@ -1,7 +1,6 @@
-Prénom : John
-Nom : Doe
-Email : john.doe@example.com
-Date de naissance : 15 août 1990
-Adresse : 123 Rue de l'Exemple, 75000 Paris, France
-Téléphone : +33 1 23 45 67 89
-
+Prénom : Jean
+Nom : Dupont
+Email : jean.dupont@example.com
+Date de naissance : 5 juillet 1985
+Adresse : 456 Avenue des Champs, 75008 Paris, France
+Téléphone : +33 1 23 45 67 88
